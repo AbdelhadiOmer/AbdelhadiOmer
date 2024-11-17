@@ -5,8 +5,3 @@
 📫 How to reach me: Connect with me on LinkedIn or drop me an email at abdelhadiomer@example.com.
 😄 Pronouns: He.
 ⚡ Fun fact: I'm a data enthusiast who loves turning complex datasets into actionable insights. In my downtime, you might find me decoding puzzles or experimenting with new algorithms.
-
-<!---
-AbdelhadiOmer/AbdelhadiOmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
